@@ -30,7 +30,7 @@ pragma solidity 0.8.25;
 contract MyToken {
      
     // public variables here
-    string public TokenName ="SOLIDITY";
+    string public TokenName ="SOLIDITY PROJECT";
     string public TokenAbbreviation="SOL";
     uint public TotalSupply=0; 
 
