@@ -1,6 +1,7 @@
 # SOLIDTY TOKEN SMART CONTRACT
 
 This Solidity Contract defines a simple token contract with minting and burning functionalities.The Contract allows us for the creation and destruction of tokens.
+    [VIDEO EXPLAINATION OF THIS PROJECT](https://www.loom.com/share/2f9b466a046e41e68a28e9c80e0533b2?sid=56a526eb-d976-4233-b1c9-62d122998011)
 
 ## Description
 
